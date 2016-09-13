@@ -2,6 +2,8 @@
 
 This app is a prototype of a multiplayer snake game that can be played on 2 local computers. The snakes pop up when 2 people connect to the server. The computers need to be in the same local network.
 
+Authors: Gaurav Srivastava, Shivank Tibrewal
+
 ## Run the app locally
 
 1. Install nodeJS
